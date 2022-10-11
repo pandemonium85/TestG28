@@ -1,0 +1,20 @@
+{
+  "name": "testg28",
+  "version": "1.0.0",
+  "description": "prueba de git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandemonium85/TestG28.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandemonium85/TestG28/issues"
+  },
+  "homepage": "https://github.com/pandemonium85/TestG28#readme"
+}
